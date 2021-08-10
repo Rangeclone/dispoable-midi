@@ -1,4 +1,4 @@
-tempo= 150
+tempo= 200
 0.0 tjie41*%
 0.25 h%
 0.5 qj$
