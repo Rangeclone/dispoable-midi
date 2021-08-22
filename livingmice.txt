@@ -1,4 +1,4 @@
-tempo= 78
+tempo= 80
 0.0 wu
 0.5 e
 1.0 u
