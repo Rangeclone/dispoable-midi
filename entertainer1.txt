@@ -1,4 +1,4 @@
-tempo= 200
+tempo= 85
 0.0 zd
 0.25 xf
 0.5 sl
